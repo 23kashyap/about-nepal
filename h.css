@@ -1,0 +1,21 @@
+header{
+     background-color: aqua;
+     text-align: center;
+     text-decoration: none;
+
+}
+a:hover{
+     background-color: chartreuse;
+}
+main{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: white;
+     
+}
+body{
+     background-color: black;
+}
+h1{
+     text-align: center;
+}
+h
